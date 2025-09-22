@@ -1,0 +1,12 @@
+{
+  "name": "Decentralized HKD",
+  "type": "ERC20",
+  "symbol": "HKDD",
+  "decimals": 6,
+  "description": "Decentralized HKD stablecoin on Polygon",
+  "website": "https://hkdd.ltd",
+  "explorer": "https://polygonscan.com/token/0x9d7f5892c75db9556e24a94a0f4c76891b73242d",
+  "status": "active",
+  "id": "0x9d7f5892c75db9556e24a94a0f4c76891b73242d",
+
+}
